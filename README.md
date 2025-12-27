@@ -34,7 +34,7 @@ Pixelhide is a professional steganography tool that allows you to hide any type 
 
 **Syntax:**
 ```bash
-python3 pixelhide.py encode <input_image_path> <secret_file_path> <output_image_path> [options]
+python3 pixelhide.py encode input_image_path secret_file_path output.png
 ```
 
 **Example - Without Encryption:**
@@ -46,14 +46,14 @@ python3 pixelhide.py encode images/cover.png secrets/secret.zip stego_image.png
 **Example - With Encryption:**
 Protecting your file with a password:
 ```bash
-python3 pixelhide.py encode images/cover.png secrets/secret.zip stego_image.png --password MySecurePassword123
+python3 pixelhide.py encode images/cover.png secrets/secret.zip stego_image.png --password Createyourpasswordhere
 ```
 
 ### Extracting a File (Decode)
 
 **Syntax:**
 ```bash
-python3 pixelhide.py decode <stego_image_path> <output_directory_path>
+python3 pixelhide.py decode stego_image_path output_directory_path
 ```
 
 **Example:**
