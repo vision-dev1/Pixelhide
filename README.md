@@ -85,5 +85,5 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ## Author
 Made by Vision  
-[Github](https://github.com/vision-dev1)
+[Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
