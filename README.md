@@ -34,7 +34,7 @@ Pixelhide is a professional steganography tool that allows you to hide any type 
 
 **Syntax:**
 ```bash
-python3 pixelhide.py encode input_image_path secret_file_path output.png
+python3 pixelhide.py encode (Image path) (File path) output.png ( your output photo name)
 ```
 
 **Example - Without Encryption:**
