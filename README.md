@@ -1,11 +1,14 @@
-# Pixelhide
 <div align="center">
+
+# Pixelhide
+
 ![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Security-Cryptography-red)
 
 Pixelhide is a professional steganography tool that allows you to hide any type of file inside a PNG image using LSB (Least Significant Bit) manipulation. It supports optional AES-256-GCM encryption for added security.
+
 </div>
 
 ## Features
