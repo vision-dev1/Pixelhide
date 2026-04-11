@@ -9,6 +9,6 @@ def print_banner():
     """
     print(banner)
     print("Pixelhide")
-    print("Made by Vision")
+    print("Made by Visionnn")
     print("GitHub: https://github.com/vision-dev1")
     print("-" * 40)
