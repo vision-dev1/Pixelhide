@@ -23,7 +23,7 @@ Pixelhide is a professional steganography tool that allows you to hide any type 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/vision-dev1/pixelhide.git
+    git clone https://github.com/visionxstack/pixelhide.git
     cd pixelhide
     ```
 
@@ -89,7 +89,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ## Author
 **Made by Vision**  
-[Github](https://github.com/vision-dev1)<br>
+[Github](https://github.com/visionxstack)<br>
 [Portfolio](https://visionkc.com.np)
 
 ---
